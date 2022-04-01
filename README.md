@@ -9,7 +9,6 @@ A third party Telegram client library [danog/MadelineProto](https://github.com/d
 This is a forked package from [setiawanhu/laravel-madeline-proto](https://github.com/setiawanhu/laravel-madeline-proto), I upgrade it to latest version, and re-published it
 
 # Getting Started
-
 Add the laravel-madeline-proto to the project dependency:
 
 ```shell script
